@@ -1,0 +1,13 @@
+# Dự án Hệ thống quản lý bán hàng OnMart
+
+## Link thiết kế Figma:
+[Xem thiết kế trên Figma](https://www.figma.com/design/SY16Fn8fQropOseh8loKBU/H%E1%BB%87-th%E1%BB%91ng-qu%E1%BA%A3n-l%C3%BD-b%C3%A1n-h%C3%A0ng-c%E1%BB%A7a-ONMART?node-id=50-488&t=3o7GCUgxxeBHDWAz-1)
+
+## Mô tả:
+Đây là giao diện thiết kế UI cho hệ thống quản lý bán hàng của cửa hàng OnMart, bao gồm các chức năng như: 
+- Quản lý sản phẩm
+- Quản lý đơn hàng 
+- Quản lý tồn kho
+- Quản lý nhập hàng
+- Báo cáo doanh thu.
+Giao diện được thiết kế thân thiện, dễ sử dụng và phù hợp cho quản lý.
